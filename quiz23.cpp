@@ -1,3 +1,8 @@
+/*    Note:
+        Quiz No: 23
+        Deadline: June 1st, 14:00
+*/
+
 #include<bits/stdc++.h> 
 using namespace std; 
 
